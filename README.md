@@ -1,6 +1,6 @@
 # 🌐 Responsive Landing Page | Task 3 - Prodigy Infotech Internship 🚀
 
-I'm happy to share that I’ve successfully completed **Task 3** of my **Prodigy Infotech Web Development Internship**!  
+I'm happy to share that I’ve successfully completed **Task 3** of my [Prodigy Infotech Web Development Internship](https://prodigyinfotech.dev/) 
 This task focused on building a **responsive and interactive landing page** using HTML, CSS, and JavaScript — featuring dark mode, scroll effects, and glowing UI buttons.
 
 ---
